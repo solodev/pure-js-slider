@@ -1,5 +1,5 @@
 # pure-js-slider
-Sliders are a great way to displays the "best of" your website's content to users. Most sliders, however, rely on third party jQuery plugins to function. In this tutorial, [Solodev](https://www.solodev.com/) will teach you how to build an animated slider with pure JavaScript.
+Sliders are a great way to display the "best of" your website's content to users. Most sliders, however, rely on third party jQuery plugins to function. In this tutorial, [Solodev](https://www.solodev.com/) will teach you how to build an animated slider with pure JavaScript.
 
 ## Tutorial
 
