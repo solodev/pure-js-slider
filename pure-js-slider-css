@@ -137,7 +137,7 @@ svg {
 }
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url("https://www.solodev.com/assets/flexslider/slide1.jpg");
+  background-image: url("images/slide1.jpg");
 }
 .slide:nth-child(1) .slide__overlay-path {
   fill: #e99c7e;
@@ -152,7 +152,7 @@ svg {
 }
 .slide:nth-child(2) .slide__bg {
   left: -50%;
-  background-image: url("https://www.solodev.com/assets/flexslider/slide3.jpg");
+  background-image: url("images/slide3.jpg");
 }
 .slide:nth-child(2) .slide__overlay-path {
   fill: #303030;
@@ -167,7 +167,7 @@ svg {
 }
 .slide:nth-child(3) .slide__bg {
   left: -100%;
-  background-image: url("https://www.solodev.com/assets/flexslider/slide4.jpg");
+  background-image: url("images/slide4.jpg");
 }
 .slide:nth-child(3) .slide__overlay-path {
   fill: #29424a;
